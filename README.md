@@ -84,6 +84,8 @@ A service-level alarm platform based on kibana watcher / 一个基于Kibana Wath
 }
 ```
 
+</details>
+
 ## Example
 
 <img width="1726" alt="截屏2023-05-29 21 23 53" src="https://github.com/WGrape/runview/assets/35942268/673ad66f-a74e-44c3-98a2-dd8d00260cb7">
