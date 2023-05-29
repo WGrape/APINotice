@@ -1,10 +1,10 @@
 # APINotice
-A service-level alarm platform based on kibana watcher / 一个基于Kibana Wathcer的服务分级报警平台
+A service-level alarm platform based on kibana watcher / 一个基于Kibana Watcher的服务分级报警平台
 
 ## Intro
 
 About more news, please click here.
-- [设计与实现基于Kibana Wathcer的服务分级报警平台](https://github.com/WGrape/Blog/issues/220)
+- [设计与实现基于Kibana Watcher的服务分级报警平台](https://github.com/WGrape/Blog/issues/220)
 
 ## Configure
 <details>
